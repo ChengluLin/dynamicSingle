@@ -4,4 +4,9 @@
       "test": "testMessage",
       "media": "https://resource.3uplay.com/user-static/e5ec4d51-6dd7-4555-8997-147b655a5c807439899739134042499.mp4"
    }
+  "response": {
+      "post_id": 105,
+      "test": "testMessage",
+      "media": "https://resource.3uplay.com/user-static/e5ec4d51-6dd7-4555-8997-147b655a5c807439899739134042499.mp4"
+   }
 }
